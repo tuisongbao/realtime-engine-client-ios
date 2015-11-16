@@ -1,0 +1,6 @@
+framework module TuisongbaoRealtimeEngine {
+  umbrella header "TuisongbaoRealtimeEngine.h"
+
+  export *
+  module * { export * }
+}

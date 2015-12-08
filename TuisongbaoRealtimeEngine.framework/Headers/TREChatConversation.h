@@ -23,6 +23,10 @@ extern NSString *const kTREChatConversationTypeGroupChat;
  */
 @property (nonatomic) NSString *target;
 /**
+ *  附加信息，用于实现应用自定义业务逻辑。
+ */
+@property (nonatomic) NSDictionary *extra;
+/**
  *  未读消息数。
  */
 @property (nonatomic) NSUInteger unreadMessageCount;

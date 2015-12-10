@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'TuisongbaoRealtimeEngine'
-  s.version = '2.1.2'
+  s.version = '2.1.3'
   s.summary = 'Help you develop realtime app much easier.'
   s.description = <<-DESC
                   Help you develop realtime app much easier with pub/sub, chat patterns.
